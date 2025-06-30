@@ -2,7 +2,7 @@ export const projects = [
   {
     id: 1,
     title: "Lunar Cretors Cretogee",
-    description: "Developed Webpage for the ML Model for predicting the luna Cretor presence via Flask",
+    description: "Developed Webpage for the ML Model for predicting the luna Cretor presence via Flask App.py",
     techStack: ["Numpy", "Siketlearn", "Pickle Library", "Flask", "HTML","CSS","React"],
     liveUrl: "https://github.com/Pradeep-gif-hub/Cretogee",
     githubUrl: "https://github.com/Pradeep-gif-hub",
