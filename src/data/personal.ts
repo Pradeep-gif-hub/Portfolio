@@ -2,7 +2,7 @@ export const personalInfo = {
   name: "Pradeep Kumar Awasthi",
   title: "Full Stack Developer",
   tagline: "Code. Create. Connect",
-  bio: "I'm a passionate full-stack developer with 3+ years of experience creating modern web applications. I love turning complex problems into simple, beautiful solutions that users enjoy interacting with.",
+  bio: "I’m a full-stack developer and engineering student who loves turning ideas into practical tech. I’ve built 15+ clean, scalable web projects with Flask, React, and JavaScript, while also working on Arduino prototypes, AI chatbots, and drone sensor systems. I believe in hands-on learning and building fast with clarity and purpose. Passionate about blending core engineering with tech, I’m currently solving real-world problems at NIT and always ready to create something impactful.",
   email: "pawasthi063@gmail.com",
   phone: "+91 8127136711",
   resumeUrl: "/resume.pdf",
@@ -48,5 +48,12 @@ export const education = [
     duration: "2024 - 2028",
     achievements: ["CR First Year", "GPA:8.85", "Apogee Club and RTist Core Member"]
     
+  },
+  {
+    id: 2,
+    degree: "Honour Letter for UKMT by Queen Elizabeth 2.0",
+    institution: " Indian Ambassador at Foremarke Hall Derbyshire England",
+    duration: "2018 ",
+    achievements: ["Boarder of the week", "Highest Effort Score of 98.6%", "500 Digits of PI Recitation"]
   }
 ];
