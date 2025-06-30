@@ -1,5 +1,5 @@
 export const personalInfo = {
-  name: "Pradeep Awasthi",
+  name: "Pradeep Kumar Awasthi",
   title: "Full Stack Developer",
   tagline: "Code. Create. Connect",
   bio: "I'm a passionate full-stack developer with 3+ years of experience creating modern web applications. I love turning complex problems into simple, beautiful solutions that users enjoy interacting with.",
