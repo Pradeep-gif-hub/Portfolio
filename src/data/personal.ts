@@ -4,7 +4,7 @@ export const personalInfo = {
   tagline: "Code. Create. Connect",
   bio: "I'm a passionate full-stack developer with 3+ years of experience creating modern web applications. I love turning complex problems into simple, beautiful solutions that users enjoy interacting with.",
   email: "pawasthi063@gmail.com",
-  phone: "+91 9695734381",
+  phone: "+91 8127136711",
   resumeUrl: "/resume.pdf",
   avatar: "https://drive.google.com/file/d/1BxLb1FxVBPsfpffbFZcnrdP9SoUgDIYM/view?usp=drive_link",
   location: "Varanasi,India"
