@@ -1,5 +1,5 @@
 export const personalInfo = {
-  name: "Amarjeet Singh",
+  name: "Pradeep Awasthi",
   title: "AI & ML Enthusiast",
   tagline: "Building Smarter Futures with Machine Learning",
   bio: "I'm a passionate full-stack developer with 3+ years of experience creating modern web applications. I love turning complex problems into simple, beautiful solutions that users enjoy interacting with.",
@@ -47,5 +47,14 @@ export const education = [
     institution: "University of California, Berkeley",
     duration: "2020 - 2024",
     achievements: ["Dean's List", "GPA: 3.8/4.0", "CS Society President"]
+    
+  },
+  {
+    id: 2,
+    degree: "Bachelor of Science in Computer Science",
+    institution: "University of California, Berkeley",
+    duration: "2020 - 2024",
+    achievements: ["Dean's List", "GPA: 3.8/4.0", "CS Society President"]
+    
   }
 ];

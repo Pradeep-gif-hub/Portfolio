@@ -26,5 +26,12 @@ export const certificates = [
     issuer: "Google Cloud",
     date: "2023",
     image: "https://images.pexels.com/photos/3184360/pexels-photo-3184360.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&fit=crop"
+  },
+  {
+    id: 5,
+    title: "Google Cloud Professional",
+    issuer: "Google Cloud",
+    date: "2023",
+    image: "https://images.pexels.com/photos/3184360/pexels-photo-3184360.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&fit=crop"
   }
 ];
