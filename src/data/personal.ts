@@ -1,7 +1,7 @@
 export const personalInfo = {
   name: "Pradeep Kumar Awasthi",
   title: "Full Stack Developer",
-  tagline: "Code. Create. Connect",
+  tagline: "Result of Good Deed and Simplicity",
   bio: "I’m a full-stack developer and engineering student who loves turning ideas into practical tech. I’ve built 15+ clean, scalable web projects with Flask, React, and JavaScript, while also working on Arduino prototypes, AI chatbots, and drone sensor systems. I believe in hands-on learning and building fast with clarity and purpose. Passionate about blending core engineering with tech, I’m currently solving real-world problems at NIT and always ready to create something impactful.",
   email: "pawasthi063@gmail.com",
   phone: "+91 8127136711",
