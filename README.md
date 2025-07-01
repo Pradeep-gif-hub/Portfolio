@@ -1,4 +1,4 @@
-# ⚛️ Amarjeet Singh – Portfolio Website
+# ⚛️ Pradeep Awasthi – Portfolio Website
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/license-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 ![Built with React](https://img.shields.io/badge/Built%20With-React-blue)
@@ -53,7 +53,7 @@ This is the source code for my personal portfolio built with React. It showcases
 ---
 
 ## 🧠 AI Contribution
-Some portions of the site (code/design) were assisted using AI tools like Bolt and ChatGPT. All output has been reviewed and curated by Amarjeet Singh.
+Some portions of the site (code/design) were assisted using AI tools like Bolt and ChatGPT. All output has been reviewed and curated by Pradeep Awasthi.
 
 ---
 
@@ -61,13 +61,13 @@ Some portions of the site (code/design) were assisted using AI tools like Bolt a
 
 This portfolio is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
 
-You may use and adapt this work for non-commercial purposes, with proper credit to Amarjeet Singh. Commercial use is not permitted without prior permission.
+You may use and adapt this work for non-commercial purposes, with proper credit to Pradeep Awasthi. Commercial use is not permitted without prior permission.
 
 ---
 
 ## 📬 Contact
 
-- 🌐 Website: netlify link
-- 🧑‍💻 GitHub: https://github.com/SAmarjeet05
-- 💼 LinkedIn: https://www.linkedin.com/in/SAmarjeet02
-- 📧 Email: amar2005.reet@gmail.com
+- 🌐 Website: https://pradeepawasthi-portfolio.netlify.app/
+- 🧑‍💻 GitHub: https://github.com/Pradeep-gif-hub
+- 💼 LinkedIn: https://www.linkedin.com/in/pradeep-kumar-awasthi-9313a2280/
+- 📧 Email: pawasthi063@gmail.com
