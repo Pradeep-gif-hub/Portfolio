@@ -18,7 +18,7 @@ export const projects = [
     title: "Prasthi ChatBot ",
     description: " With help of GEMINI API keys built the realtime based chatbot Prasthi !!",
     techStack: ["Python", "LLM API keys", "Flask", "Google SDK"],
-    liveUrl: "localhost Not deployed Yet",
+    liveUrl: "https://linktr.ee/awasthi063",
     githubUrl: "https://github.com/Pradeep-gif-hub/HTML-ISRO-STIC",
     images: [
       "https://images.pexels.com/photos/3184298/pexels-photo-3184298.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&fit=crop",
