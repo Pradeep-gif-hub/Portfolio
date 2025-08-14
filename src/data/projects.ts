@@ -38,18 +38,5 @@ export const projects = [
       "https://images.pexels.com/photos/1118874/pexels-photo-1118874.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&fit=crop"
     ],
     featured: false
-  },
-  {
-    id: 4,
-    title: "BINsense (SMART DUSTBIN SYSTEM)",
-    description: "Dashboard for realtime analysis fro the Gas Sensing using ARDUINO UNO, MQ135,HC-SR04 US Sensor using Firefox API keys",
-    techStack: ["HTML", "JS", "CSS", "FastAPI", "Arduino IDE"],
-    liveUrl: "https://demo-analytics.com",
-    githubUrl: "https://github.com/username/analytics",
-    images: [
-      "https://images.pexels.com/photos/265087/pexels-photo-265087.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&fit=crop",
-      "https://images.pexels.com/photos/590020/pexels-photo-590020.jpg?auto=compress&cs=tinysrgb&w=800&h=500&fit=crop"
-    ],
-    featured: false
   }
 ];
