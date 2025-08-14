@@ -45,7 +45,7 @@ export const education = [
     degree: "Bachelor of Science in Instrumentation and Control Engineering ",
     institution: "Dr B.R. Ambedkar National Institute Of Technology Jalandhar Punjab ",
     duration: "2024 - 2028",
-    achievements: ["CR First Year", "GPA:8.85", "Apogee Club and RTist Core Member"]
+    achievements: ["CR First Year", "GPA:8.82", "Apogee Club and RTist Core Member"]
     
   },
   {
