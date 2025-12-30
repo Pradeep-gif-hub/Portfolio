@@ -5,7 +5,7 @@ export const personalInfo = {
   bio: "I’m a full-stack developer and engineering student who loves turning ideas into practical tech. I’ve built 15+ clean, scalable web projects with Flask, React, and JavaScript, while also working on Arduino prototypes, AI chatbots, and drone sensor systems. I believe in hands-on learning and building fast with clarity and purpose. Passionate about blending core engineering with tech, I’m currently solving real-world problems at NIT and always ready to create something impactful.",
   email: "pawasthi063@gmail.com",
   phone: "+91 8127136711",
-  resumeUrl: "https://drive.google.com/drive/folders/0B-R3YAUnTIcnflV4dWplU25ramtRQ0M5ZDZqMTZvcDU2Yk5KXzdxelhSdlE4NFRsQ19zeG8?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto",
+  resumeUrl: "https://drive.google.com/drive/folders/0B-R3YAUnTIcnflV4dWplU25ramtRQ0M5ZDZqMTZvcDU2Yk5KXzdxelhSdlE4NFRsQ19zeG8?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto&resourcekey=0-9QYqYLDpkyxiNjmIyJn4Dw",
   avatar: "https://drive.google.com/file/d/1BxLb1FxVBPsfpffbFZcnrdP9SoUgDIYM/view?usp=sharing ",
   location: "Varanasi,India"
 };
