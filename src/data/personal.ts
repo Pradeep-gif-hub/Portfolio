@@ -6,7 +6,7 @@ export const personalInfo = {
   email: "pawasthi063@gmail.com",
   phone: "+91 8127136711",
   resumeUrl: "https://drive.google.com/file/d/1IcDxUijULhtIEqtw_7Xx9vhQeySHZ-Dh/view?usp=drive_link",
-  avatar: "https://drive.google.com/file/d/1BxLb1FxVBPsfpffbFZcnrdP9SoUgDIYM/view?usp=sharing ",
+  avatar: "https://drive.google.com/file/d/1GBt5hI5wlK9rhxgynFwOt5aUhI0iF826/view?usp=sharing ",
   location: "Varanasi,India"
 };
 

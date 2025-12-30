@@ -114,7 +114,7 @@ function App() {
 
             <footer className="py-8 text-center text-gray-500 dark:text-gray-400 border-t border-gray-200/50 dark:border-white/10">
               <div className="container mx-auto px-6">
-                <p>&copy; 2025 Amarjeet Singh. Built with React, TypeScript, and lots of ❤️</p>
+                <p>&copy; 2025 Pradeep Awasthi. Built with React, TypeScript, and lots of ❤️</p>
               </div>
             </footer>
           </motion.div>

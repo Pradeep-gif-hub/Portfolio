@@ -18,7 +18,7 @@ You are free to:
 As long as you follow these terms:
 
 ### ✅ Attribution
-You must give appropriate credit to **Amarjeet Singh**, link to the license, and indicate if changes were made.
+You must give appropriate credit to **Pradeep Awasthi**, link to the license, and indicate if changes were made.
 
 ### ❌ NonCommercial
 You may not use the material for commercial purposes.
@@ -28,7 +28,6 @@ You may not use the material for commercial purposes.
 ## ⚠️ Notes
 
 - This license applies to the **portfolio code, content, and design**, unless otherwise noted.
-- Some assets or sections may have been assisted or generated using AI tools like **Bolt**, and curated by Amarjeet Singh.
 - Third-party assets (e.g., fonts, stock images, libraries) may be under separate licenses. Please check their respective sources.
 
 ---
@@ -36,4 +35,4 @@ You may not use the material for commercial purposes.
 ## 📬 Contact
 
 For commercial use, permissions, or collaboration opportunities, contact:
-**[amar2005.reet@gmail.com]**
+**[pawasthi063@gmail.com]**
