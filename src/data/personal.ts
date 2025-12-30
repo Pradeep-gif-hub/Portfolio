@@ -27,7 +27,7 @@ export const internships = [
     company: "ISRO STIC-RS207",
     duration: "DEC 2024 - JAN-2025",
     description: "Developed responsive web components using HTML,CSS and JS for finding out the TheRmal Transitivity of the Transient Space Honeycomb Material .",
-    logo: "https://drive.google.com/file/d/1qeAF_I2hVM1SamJcYVBqh7g1eksn3rwT/view?usp=sharing",
+    logo: "https://images.pexels.com/photos/3184338/pexels-photo-3184338.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop",
   },
   {
     id: 2,
